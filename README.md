@@ -1,1 +1,0 @@
-![1fe7b551e31427d1](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20221112_1668237304.jpg)
