@@ -10,7 +10,6 @@
   -  [mirror攻略.md](备忘\mirror攻略.md) 
   -  [163邮箱授权码.md](备忘\163邮箱授权码.md) 
   -  [划词翻译第三方服务密钥配置信息.md](备忘\划词翻译第三方服务密钥配置信息.md) 
-  -  [settings。json(Bilibili-Evolved油猴插件，导入前删除).md](备忘\settings。json(Bilibili-Evolved油猴插件，导入前删除).md) 
 - 技术
   -  [编程自学.md](技术\编程自学.md) 
   -  [电脑桌椅布置最佳方案.md](技术\电脑桌椅布置最佳方案.md) 
